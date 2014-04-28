@@ -1,22 +1,47 @@
-.. Javatar documentation master file, created by
-   sphinx-quickstart on Mon Apr 28 12:21:30 2014.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. include:: definitions.inc
 
-Welcome to Javatar's documentation!
-===================================
+Welcome to |J|
+==============
 
-Contents:
+|J| is a plugin for |st3| and for Java development. The inspirations behind |J| is `Eclipse`_, the open-source Java IDE.
+
+.. _Eclipse: http://eclipse.org
+
+New to |J|?
+===========
+
+Take a look at :ref:`getting_started` and become a **Javatar**! [#javatar]_
+
+Table of Contents
+=================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
+   features
+   updates
+   screenshots
+   getting_started
+   commands_list
+   commands
+   builds
+   calls
+   adv_creates
+   operations
+   projects
+   default_packages
+   installation
+   settings
+   bindings
+   build_system
+   javatar_shell
+   javatar_snippets
+   javatar_packages
+   additional_packages
+   package_channels
+   stats_and_usages
+   actions_history
+   donation
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+.. [#javatar] Referred from `Javapocalypse`_ video
+.. _Javapocalypse: http://www.youtube.com/watch?v=E3418SeWZfQ
