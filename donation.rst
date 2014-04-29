@@ -1,7 +1,5 @@
 .. include:: definitions.inc
 
-.. _donation:
-
 Donation
 ========
 
