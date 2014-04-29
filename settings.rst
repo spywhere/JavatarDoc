@@ -9,7 +9,7 @@ Settings can be accessed via the *Preferences > Package Settings > Javatar* from
 
 Default settings should not be modified. However, you can copy the relevant settings into |J|'s user settings file.
 
-Some settings contain macro for special value such as Source Folder or Project Directory. The followings are all macro supported by |J|
+Some settings contain macro for special value such as Source Folder or Project Directory. The followings are all macro supported by |J|...
 
  * Available anywhere
     * ``$project_dir``
@@ -19,7 +19,7 @@ Some settings contain macro for special value such as Source Folder or Project D
     * ``$packages_path``
        * |st|'s packages path
     * ``$sep``
-       * Path separator. Such as "/" on Unix and "\" on Windows
+       * Path separator. Such as "/" on Unix and "\\" on Windows
  * Available when open a file
     * ``$full_class_path``
        * Full class path. Such as "package.subpackage.classname"
@@ -41,4 +41,4 @@ Some settings contain macro for special value such as Source Folder or Project D
     * ``$d``
        * Output path flag for build command (-d)
 
-Make sure you are quoted all path specific value to escape spaces
+.. note:: Make sure you are quoted all path specific value to escape spaces.

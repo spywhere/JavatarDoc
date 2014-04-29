@@ -14,7 +14,7 @@ Dependencies
 
 |J| support build and run project that have dependencies .jar files both global and specific projects.
 To add a dependency to global projects (all projects), you need to add them manually by specified it in |J|'s user preferences since most projects have different dependencies.
-To add a dependency to current project, go to *Project Settings... > Dependencies...* and select *Add External .jar* and |J| will show a dialog to select a file you want to add.
+To add a dependency to current project, go to *Project Settings... > Dependencies...* and select *Add External .jar* or *Add Class Folder* and |J| will show a dialog to select a dependency you want to add.
 
 Set Source Folder
 -----------------

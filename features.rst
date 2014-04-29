@@ -13,7 +13,7 @@ Features
  * [S]_ Packages path in status bar
  * [S]_ External libraries packages
  * [S]_ Internal console with input supports
- * [D]_ Organize Imports
+ * [D]_ Organize Imports [#1]_
  * [P]_ Rename/Move packages or classes [#2]_
  * [P]_ .jar file export (include executable .jar) [#3]_
  * [P]_ Dynamic method call auto-complete

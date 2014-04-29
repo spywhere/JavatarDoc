@@ -26,7 +26,7 @@ If you run |J| for the first time, it also download and install necessary packag
 
 .. image:: images/gettingstarted/status_installing.png
 
-Usually, you can use |J| right away when you open |st| since most users did not start create a new class or organize imports right away (I literally mean *right away*).
+Usually, you can use |J| right away when you open |st| since most users did not start create a new class or organize imports at startup time.
 
 Preparing Our New Project
 -------------------------
@@ -94,12 +94,12 @@ Press :kbd:`Key+Shift+K` twice and select *Create... > Class* and it will wait f
 
 Enter ``javatar.simple.demo.Main`` and hit :kbd:`Enter` or :kbd:`Return` to create it.
 
-And bam! A class is create inside a proper package path. Is that great?
+And bam! A class is create inside a proper package path. Isn't that great?
 
 .. image:: images/gettingstarted/sidebar_correct.png
 
 So, Create Package command is useless? Well, not so much. Sometimes you might need to create a package before create a class to organize packages,
-and later you will filled it up with a bunch of classes. And that is time when Create Package is come in.
+and later you will filled it up with a bunch of classes. And that is time when Create Package comes in.
 
 Package Path
 ------------

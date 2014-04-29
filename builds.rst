@@ -5,7 +5,7 @@
 Builds
 ======
 
-|J| use its own :ref:`build_system` which based on default |st|'s JavaC build settings. Building classes in |J| can be done with several ways...
+|J| use its own :ref:`build_system` which based on default |st|'s JavaC build settings. Building classes in |J| can be done in several ways...
 
 Project
 -------

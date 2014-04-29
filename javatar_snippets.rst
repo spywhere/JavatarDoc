@@ -11,15 +11,15 @@ You can make your own snippets to use within |J| by create a new file ends with 
 
 Snippet class tags (for more informations about snippet tags, see below) will be used as a type of classes which show in input panel when create a new file (``%type% Name:``), on error dialog (``%type% %name% already exists``) and in status bar when file was created (``%type% %name% is created within package %package%``).
 
-Example of |J|'s snippets is inside |J|'s snippets folder (``PACKAGES_PATH/Javatar/snippets`` or similar)
+Example of |J|'s snippets is inside |J|'s snippets folder (``PACKAGES_PATH/Javatar/snippets`` or inside .sublime-packages file)
 
 Snippet Tags
 ------------
 
-The following tags are used inside |J| snippet files (*.javatar) which will be used by |J| to display proper command to the user
+The following tags are used inside |J| snippet files (\*.javatar) which will be used by |J| to display proper command to the user
 
-* %class:*TYPE OF CLASS*%
-* %description:*DESCRIPTION TO SHOW UNDER CREATION COMMAND*%
+* %class:\*TYPE OF CLASS\*%
+* %description:\*DESCRIPTION TO SHOW UNDER CREATION COMMAND\*%
 
 Usage of snippet tags in action
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -29,7 +29,7 @@ Usage of snippet tags in action
 Snippet Macros
 --------------
 
-The following macros are used inside |J| snippet files (*.javatar) which will be parsed by |J| and |st|.
+The following macros are used inside |J| snippet files (\*.javatar) which will be parsed by |J| and |st|.
 
 * %package_path% = Package path
 * %class% = Class name
