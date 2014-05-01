@@ -16,14 +16,12 @@ Development Build
 Stable Build
 ------------
 
+* Javatar will automatically detect installed JDK and will automatic select the best one (more details on :ref:`jdk_detection`)
+* New menu section, Javatar Settings.
 * New feature, Run main class. Can be accessed via *Development Section... > Builds: Run Main Class* (more details on :ref:`javatar_shell`)
-* Java's compilation errors and stack traces highlighting in console
 * Multi-thread :ref:`build_system`
 * Build now put all .class files in "bin" directory and support dependencies (more informations about dependencies in :ref:`projects`)
 * Project/Package/Class Build improvements (now support multiple files building and error logs)
-* New build type, Working Classes
-* Fix internal shell did not work on Windows
-* :ref:`package_channels` must be specified 'dev' in order to subscribe to development channel instead of anything else except 'stable'
-* Building system now completely changed to internal building system (more details on :ref:`build_system`)
+* Fix current package detection not working properly
 * Macro improvements
 * Some code tweaks

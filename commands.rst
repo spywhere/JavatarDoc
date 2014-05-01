@@ -38,6 +38,12 @@ Project Settings [#qm_only]_
  * Adjust settings for current projects
  * More details on :ref:`projects`
 
+Javatar Settings [#qm_only]_
+----------------
+
+ * Adjust settings for global projects (all projects)
+ * Most settings are the same as project settings
+
 Packages Manager [#qm_only]_
 ----------------
 

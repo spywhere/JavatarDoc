@@ -30,6 +30,7 @@ Table of Contents
    operations
    projects
    default_packages
+   jdk_detection
    installation
    settings
    bindings
