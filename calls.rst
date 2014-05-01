@@ -3,22 +3,22 @@
 .. _calls:
 
 Calls
-======
+=====
 
 Calls are use to insert class or package informations at cursor point. |J| supports 4 types of calls...
 
 Package Name
------------------
+------------
 
 Return current package path
 
 Subpackage Name
---------------------
+---------------
 
 Return subpackage name from current package path
 
 Full Class Name
--------
+---------------
 
 Return full class path
 

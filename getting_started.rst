@@ -141,7 +141,7 @@ Select *Builds... > Project* from the menu and wait...
 If something is wrong, |J| will show you in a new view.
 
 Running Our Code
----------------
+----------------
 
 It is time to test our application. To run just select *Builds... > Run Main Class* and |J| will launch our application on a new view.
 

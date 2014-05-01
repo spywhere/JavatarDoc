@@ -3,7 +3,7 @@
 .. _screenshots:
 
 Screenshots
-========
+===========
 
 A picture is worth a thousand words. That is what they said...
 
