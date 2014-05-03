@@ -39,6 +39,7 @@ Table of Contents
    javatar_snippets
    javatar_packages
    additional_packages
+   javatar_grammar
    package_channels
    stats_and_usages
    actions_history

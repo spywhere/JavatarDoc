@@ -2,4 +2,4 @@
 
 A source for JavatarDoc on readthedocs.org
 
-JavatarDoc: [http://javatar.readthedocs.org/](http://javatar.readthedocs.org/)
+JavatarDoc: [https://javatar.readthedocs.org/](https://javatar.readthedocs.org/)

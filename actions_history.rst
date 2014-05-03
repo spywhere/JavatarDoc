@@ -8,7 +8,7 @@ Actions History
 Actions History tracks how you use |J| and helps solve the problem. By provides useful informations as request by developer (only when you submit an issue).
 A |J| Action History Report will looks similar to this when using it properly...
 
-::
+.. code-block:: markdown
 
 	## Javatar Report
 	### System Informations
