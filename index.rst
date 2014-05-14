@@ -43,6 +43,7 @@ Table of Contents
    package_channels
    stats_and_usages
    actions_history
+   license
    donation
 
 .. [#javatar] Referred from `Javapocalypse`_ video
