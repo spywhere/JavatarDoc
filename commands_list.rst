@@ -54,6 +54,7 @@ Here is the list of commands available via |J|'s menu.
     * Operations: Organize Imports
     * Operations: Rename Class
     * Operations: Rename Package
+    * Parse Document
     * Prettify JSON
     * Testing
  * Help and Support...
