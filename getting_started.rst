@@ -44,7 +44,7 @@ We will pressing :kbd:`Key+Shift+K` twice to open |J|'s menu and select *Create.
 
 .. image:: images/gettingstarted/package_empty.png
 
-.. note:: :kbd:`Key` is :kbd:`Control` on Windows, :kbd:`Super` on Linux and :kbd:`Command` on OS X.
+.. note:: :kbd:`Key` is :kbd:`Control` on Windows, Linux and :kbd:`Command` on OS X.
 
 Then type ``javatar.simple.demo`` and hit :kbd:`Enter` or :kbd:`Return`.
 

@@ -10,3 +10,7 @@ This helps |J| faster to install/update from Package Control but that not provid
 To solve this problem, |J| will automatically download and install necessary packages when startup.
 
 For other packages, you can download and install using *Packages Manager... > Install Packages...* menu.
+
+If you want to suggest or add Javatar Packages to the package repository. Please leave an issue in `Javatar Packages repository`_.
+
+.. _Javatar Packages repository: https://github.com/spywhere/JavatarPackages
