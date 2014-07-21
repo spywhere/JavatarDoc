@@ -46,5 +46,5 @@ Table of Contents
    license
    donation
 
-.. [#javatar] Referred from `Javapocalypse`_ video
+.. [#javatar] Originally from `Javapocalypse`_ video
 .. _Javapocalypse: http://www.youtube.com/watch?v=E3418SeWZfQ

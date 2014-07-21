@@ -18,6 +18,8 @@ Features
  * [P]_ .jar file export (include executable .jar) [#3]_
  * [P]_ Dynamic method call auto-complete
 
+|J| is currently on Beta.
+
 .. [S] Available on stable channel
 .. [D] Partial available on development channel
 .. [P] Planned

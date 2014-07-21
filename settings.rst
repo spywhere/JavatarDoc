@@ -41,4 +41,4 @@ Some settings contain macro for special value such as Source Folder or Project D
     * ``$d``
        * Output path flag for build command (-d)
 
-.. note:: Make sure you are quoted all path specific value to escape spaces.
+.. note:: Make sure you quoted all path specific value to escape spaces.

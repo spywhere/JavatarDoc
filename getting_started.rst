@@ -31,7 +31,7 @@ Usually, you can use |J| right away when you open |st| since most users did not 
 Preparing Our New Project
 -------------------------
 
-To prepare our project, we need to create a folder to contains our files then open it in |st| and do not forget to create ``src`` folder to store our Java source code.
+To prepare our project, we need to create a folder to contain our files then open it in |st| and do not forget to create ``src`` folder to store our Java source code.
 
 .. image:: images/gettingstarted/sidebar_folder.png
 
@@ -72,14 +72,14 @@ Then we will select ``src`` folder as we want.
 
 .. image:: images/gettingstarted/panel_source_folder.png
 
-.. warning:: Source Folder and Dependencies settings will be reset if you do not save your project.
+.. warning:: If project data restoration feature is disable and you did not save your project, Source Folder and Dependencies settings might be reset when you restarted Sublime Text.
 
 Menu is Everything
 ------------------
 
 .. image:: images/gettingstarted/javatar_menu.png
 
-As you can see, |J| use menu instead of Command Palette to help group commands to a single submenu.
+As you can see, |J| use menus instead of Command Palette to help group commands to a single submenu.
 This helps find commands easier when you do not know which command you are looking for.
 
 And also |st| did not support dynamic Command Palette since |J| need to add or remove an action from snippets, packages or your project's dependencies list.
