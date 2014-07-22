@@ -5,7 +5,7 @@
 Features
 ========
 
-|J| is designed to be *IDE-like* plugin by provides many features that help develop Java applications faster and easier.
+|J| is designed to be *IDE-like* plugin by providing many features that help develop Java applications faster and easier.
 
  * [S]_ Packages and Subpackages creation
  * [S]_ Class (also Abstract), Interface and Enumeration snippets with package/class name auto-complete
@@ -15,7 +15,7 @@ Features
  * [S]_ Internal console with input supports
  * [D]_ Organize Imports [#1]_
  * [P]_ Rename/Move packages or classes [#2]_
- * [P]_ .jar file export (include executable .jar) [#3]_
+ * [P]_ .jar file export (includes executable .jar) [#3]_
  * [P]_ Dynamic method call auto-complete
 
 |J| is currently on Beta.

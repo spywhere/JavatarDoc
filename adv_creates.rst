@@ -5,7 +5,7 @@
 Advanced Creations
 ==================
 
-In all create related commands, all packages and classes will be created relative to current package unless specified by **~** (tilde) before package or class path.
+In all create related commands, all packages and classes will be created relative to the current package unless specified by **~** (tilde) before package or class path.
 See examples below...
 
 +-------------+--------------------------------------------------------------------+------------------------------------------------------------------+

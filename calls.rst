@@ -5,7 +5,7 @@
 Calls
 =====
 
-Calls are use to insert class or package informations at cursor point. |J| supports 4 types of calls...
+Calls are used to insert class or package information at cursor point. |J| supports 4 types of calls...
 
 Package Name
 ------------

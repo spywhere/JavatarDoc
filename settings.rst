@@ -5,11 +5,11 @@
 Settings
 ========
 
-Settings can be accessed via the *Preferences > Package Settings > Javatar* from menu bar or via command palette by type ``Preference Javatar``.
+Settings can be accessed via the *Preferences > Package Settings > Javatar* from the menu bar or via command palette by type ``Preference Javatar``.
 
-Default settings should not be modified. However, you can copy the relevant settings into |J|'s user settings file.
+Default settings should not be modified. However, you can copy the relevant settings in |J|'s user settings file.
 
-Some settings contain macro for special value such as Source Folder or Project Directory. The followings are all macro supported by |J|...
+Some settings contain macros for special value such as Source Folder or Project Directory. The followings are all macro supported by |J|...
 
  * Available anywhere
     * ``$project_dir``
@@ -41,4 +41,4 @@ Some settings contain macro for special value such as Source Folder or Project D
     * ``$d``
        * Output path flag for build command (-d)
 
-.. note:: Make sure you quoted all path specific value to escape spaces.
+.. note:: Make sure you quoted all path specific value to escape the spaces.

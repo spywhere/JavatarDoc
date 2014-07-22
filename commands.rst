@@ -6,7 +6,7 @@ Commands Categories
 ===================
 
 |J| have a lot of commands to be used, show them all like Command Palette can confused and also hard to search.
-So, in order to help organize and search for commands easier, |J| group all similar commands into section.
+So, in order to help organize and search for commands easier, |J| group all similar commands into sections.
 
 Builds
 ------

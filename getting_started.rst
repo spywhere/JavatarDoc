@@ -7,9 +7,9 @@ Getting Started
 
 Welcome you, the new Javatar! I will take you through a simple project to help using |J| faster and better suit your workspace.
 
-This should take some time since I am going to explain everything you might need to know. But in a normal work, you would done all of this in a few minutes.
+This should take some time since I am going to explain everything you might need to know. But in a normal work, you would do all of this in a few minutes.
 
-In the end of this chapter, we will see a simple application that take our input and respond to us.
+At the end of this chapter, we will see a simple application that takes our input and respond to us.
 
 If you are ready, let's begin!
 
@@ -61,9 +61,9 @@ Why is that? There is a reason...
 Source Folder
 -------------
 
-The reason that our package ends up in a wrong place because we did not set the source folder yet.
+The reason that our package is ending up in a wrong place because we did not set the source folder yet.
 What is source folder? Source Folder is, obviously, a folder which contains source code files.
-Since, we want our source code to be placed inside ``src`` folder. Hence, the ``src`` folder should be set as source folder as the name stated.
+Since, we want our source code to be placed in ``src`` folder. Hence, the ``src`` folder should be set as source folder as the name stated.
 
 To set a source folder, we will run a command *Set Source Folder*.
 We will pressing :kbd:`Key+Shift+K` twice again to open |J|'s menu and select *Project Settings... > Set Source Folder*
@@ -88,31 +88,31 @@ First Class
 -----------
 
 After we set a source folder, it is time to recreate that package again (do not forget to remove an old one too!) but since we are going to create a class later,
-we will try a faster command that let's us create both package and class at the same time.
+we will try a faster command that lets us create both package and class at the same time.
 
 Press :kbd:`Key+Shift+K` twice and select *Create... > Class* and it will wait for us to enter a class name.
 
 Enter ``javatar.simple.demo.Main`` and hit :kbd:`Enter` or :kbd:`Return` to create it.
 
-And bam! A class is create inside a proper package path. Isn't that great?
+And bam! A class is created inside a proper package path. Isn't that great?
 
 .. image:: images/gettingstarted/sidebar_correct.png
 
-So, Create Package command is useless? Well, not so much. Sometimes you might need to create a package before create a class to organize packages,
-and later you will filled it up with a bunch of classes. And that is time when Create Package comes in.
+So, Create Package command is useless? Well, not so much. Sometimes you might need to creates a package before create a class to organize packages,
+and later you will fill it up with a bunch of classes. And that is the time when Create Package comes in.
 
 Package Path
 ------------
 
-Right now, if you look at your status bar at the bottom of the window, you will notice that there is package path showing.
-This will changed when you switch to another tabs that is Java file, indicated which package current file is in.
+Right now, if you look at your status bar at the bottom of the window, you will notice that there is a package path showing.
+This will change when you switch to another tab that is Java file, indicated which package current file is in.
 
 .. image:: images/gettingstarted/status_package_path.png
 
 Coding Time!
 ------------
 
-It is fun time! Let's code a simple application that take our name and display "Hello, <Name>!"
+It is a fun time! Let's code a simple application that takes our name and display "Hello, <Name>!"
 
 .. code-block:: java
 
@@ -132,7 +132,7 @@ It is fun time! Let's code a simple application that take our name and display "
 Build Our Project
 -----------------
 
-We just done our first Java coding. Let's build and run it!
+We have just done our first Java coding. Let's build and run it!
 
 Select *Builds... > Project* from the menu and wait...
 

@@ -15,7 +15,7 @@ All commands start with :kbd:`Key+Shift+K` then follows by their shortcut key.
 * Browse Commands... : :kbd:`Key+Shift+K`
 	* This will open quick panel, showing you all commands available to use.
 * Help and Support... : :kbd:`Key+Shift+H`
-	* This will open quick panel, showing you all utilities that help solve the issue (mostly requested to do by developer).
+	* This will open quick panel, showing you all utilities that help solve the issue (most requested to do by developer).
 * Builds... : :kbd:`Key+Shift+B`
 	* This will open quick panel to select which build you want to perform.
 * Calls... : :kbd:`Key+Shift+J`

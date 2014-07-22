@@ -5,9 +5,9 @@
 Build System
 ============
 
-|J|'s build system use its internal shell to build your classes.
-|J| build parameters are based on default |st|'s JavaC build settings.
-You can change the build command via |J| settings file.
+|J|'s build system using its internal shell to build your classes.
+|J| builds parameters are based on default |st|'s JavaC build settings.
+You can change the build command via a |J| settings file.
 
 |J|'s build system support multi-threads building. By running multiple instance of build system to help build your class faster.
 You can set how many threads you want to run in |J|'s user preferences.

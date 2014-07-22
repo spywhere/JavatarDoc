@@ -5,23 +5,23 @@
 Projects Settings
 =================
 
-Project Settings section contains per-project settings.
+The Project Settings section contains per-project settings.
 
 .. tip:: All |J|'s settings can be set specifically for each project by setting it in project file instead of user preferences
 
 Dependencies
 ------------
 
-|J| support build and run project that have dependencies .jar files both global and specific projects.
+|J| supports build and run project that have dependencies .jar files both global and specific projects.
 To add a dependency to global projects (all projects), go to *Javatar Settings... > Dependencies...* and select *Add External .jar* or *Add Class Folder* and |J| will show a dialog to select a dependency you want to add.
-To add a dependency to current project, same as for global projects but using *Project Settings... > Dependencies...* menu instead.
+To add a dependency to current project, same as for global projects, but using *Project Settings... > Dependencies...* menu instead.
 
 Set Source Folder
 -----------------
 
-As default, |J| will specified a default package (mostly) based-on current working folder or folder contains current working file (more details on next section).
+As default, |J| will specify a default package (mostly) based-on current working folder or folder contains current working files (more details in next section).
 Many projects might use multiple folders and some of them are not source folder.
-Set source folder helps solve this issue by let you select which folder to specified as Source Folder (or default package as |J| use).
+Set source folder helps solve this issue by letting you select which folder to specified as Source Folder (or default package as |J| use).
 
 Set Default JDK
 ---------------
