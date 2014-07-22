@@ -43,9 +43,9 @@ Inheritances Helper
 
 You can create a class included with inheritances of classes and interfaces by using special characters.
 
-To extends a class, add ``:`` (colon) followed by a class name (or a list of class names separated by comma if it is a enumerator).
+To extends a class, add ``:`` (colon) followed by a class name (or a list of class names separated by commas if it is a enumerator).
 
-To implements an interface, add ``<`` (left angle bracket) followed by a list of interface names separated by comma.
+To implements an interface, add ``<`` (left angle bracket) followed by a list of interface names separated by commas.
 
 If you are on Development Channel, Javatar will also automatically organize imports when class is created.
 
@@ -57,8 +57,8 @@ Examples:
  * ``BattleShip<Carrier,WaterUnit:BattleUnit``
     * Class "BattleUnit" is inherited from "BattleUnit" class, "Carrier" interface and "WaterUnit" interface
  * ``wargame.entity.defaultAbstractBattleShip:BattleUnit<Carrier,WaterUnit``
-    * Class "BattleUnit" is created with "default" visibility and is inherited from "BattleUnit", "Carrier" and "WaterUnit"
+    * Abstract class "BattleUnit" is created in "wargame.entity" package with "default" visibility and is inherited from "BattleUnit", "Carrier" and "WaterUnit" class/interface
 
-Inheritances is not both case-sensitive and order-sensitive.
+Inheritances **is** case-sensitive but not order-sensitive.
 
 .. note:: Despite, Javatar allows you to create "private" or "protected" classes. It does not make sense to create a private or protected class since another class can not see a new class you created.
