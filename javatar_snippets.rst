@@ -5,7 +5,7 @@
 |J| Snippets
 ================
 
-|J| snippets is a dynamic snippet which will change part of the file to correspond with package path and class name. By using macros, you can specify which part of the file you want to fill the data to.
+|J| snippets is a dynamic snippet which will change part of the file to correspond with package path and class name. By using parameters, you can specify which part of the file you want to fill the data to.
 
 You can make your own snippets to use within |J| by create a new file ends with ``.javatar``
 
@@ -26,14 +26,14 @@ Usage of snippet tags in action
 
 .. image:: images/CreateNewSS.png
 
-Snippet Macros
+Snippet Parameters
 --------------
 
-The following macros are used inside |J| snippet files (\*.javatar) which will be parsed by |J| and |st|.
+The following parameters are used inside |J| snippet files (\*.javatar) which will be parsed by |J| and |st|.
 
 * %package_path% = Package path
 * %class% = Class name
 * %file% = File path
 * %file_name% = File name (equivalent to ``%class%.java``)
 * %package% = Package code (for example ``package java.utils;`` or same as ``package %packages_path%;``)
-* All |st|'s snippet macros can be used within |J| snippets. For example: ${1} or ${2://Comment}
+* All |st|'s snippet parameters can be used within |J| snippets. For example: ${1} or ${2://Comment}

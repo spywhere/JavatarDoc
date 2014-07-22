@@ -9,7 +9,7 @@ Settings can be accessed via the *Preferences > Package Settings > Javatar* from
 
 Default settings should not be modified. However, you can copy the relevant settings in |J|'s user settings file.
 
-Some settings contain macros for special value such as Source Folder or Project Directory. The followings are all macro supported by |J|...
+Some settings contain parameters for special value such as Source Folder or Project Directory. The followings are all parameter supported by |J|...
 
  * Available anywhere
     * ``$project_dir``

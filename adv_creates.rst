@@ -5,6 +5,9 @@
 Advanced Creations
 ==================
 
+Relative Creations
+------------------
+
 In all create related commands, all packages and classes will be created relative to the current package unless specified by **~** (tilde) before package or class path.
 See examples below...
 
@@ -19,3 +22,43 @@ See examples below...
 +-------------+--------------------------------------------------------------------+------------------------------------------------------------------+
 | ~Alpha.Beta | ``Package "Beta" is created in "Alpha"``                           | ``Class "Beta" is created in "Alpha"``                           |
 +-------------+--------------------------------------------------------------------+------------------------------------------------------------------+
+
+Customized Classes
+------------------
+
+You can create a class with custom visibility (default class visibility is ``public``) by adding one of the keyword ``public``, ``private``, ``protected`` and ``default`` before your **class name**. If you want to create an abstract or final class just add ``abstract`` or ``final`` **after the visibility**.
+
+Examples:
+ * ``privateBattleShip``
+    * Class "BattleShip" is created with "private" visiblity
+ * ``protectedAbstractBattleShip``
+    * Class "BattleShip" is created with "protected" visibility and "abstract" modifier
+ * ``wargame.entity.defaultBattleShip``
+    * Class "BattleShip" is created with "default" visibility in "wargame.entity" package
+
+.. note:: The keyword **is** order-sensitive but not case-sensitive.
+
+Inheritances Helper
+-------------------
+
+You can create a class included with inheritances of classes and interfaces by using special characters.
+
+To extends a class, add ``:`` (colon) followed by a class name (or a list of class names separated by comma if it is a enumerator).
+
+To implements an interface, add ``<`` (left angle bracket) followed by a list of interface names separated by comma.
+
+If you are on Development Channel, Javatar will also automatically organize imports when class is created.
+
+Examples:
+ * ``BattleShip:BattleUnit``
+    * Class "BattleShip" is inherited from "BattleUnit" class (has "extends" in the code)
+ * ``BattleShip:BattleUnit<WaterUnit``
+    * Class "BattleShip" is both inherited from "BattleUnit" class and "WaterUnit" interface
+ * ``BattleShip<Carrier,WaterUnit:BattleUnit``
+    * Class "BattleUnit" is inherited from "BattleUnit" class, "Carrier" interface and "WaterUnit" interface
+ * ``wargame.entity.defaultAbstractBattleShip:BattleUnit<Carrier,WaterUnit``
+    * Class "BattleUnit" is created with "default" visibility and is inherited from "BattleUnit", "Carrier" and "WaterUnit"
+
+Inheritances is not both case-sensitive and order-sensitive.
+
+.. note:: Despite, Javatar allows you to create "private" or "protected" classes. It does not make sense to create a private or protected class since another class can not see a new class you created.
