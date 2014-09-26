@@ -43,6 +43,8 @@ Table of Contents
    package_channels
    stats_and_usages
    actions_history
+   notifications
+   year_book
    license
    donation
 

@@ -16,6 +16,7 @@ Development Build
 Stable Build
 ------------
 
+* Javatar build now support notification via SubNotify (more details on :ref:`notifications`)
 * Javatar now nest project settings inside "Javatar" key
 * Javatar will automatically detect installed JDK and will automatically select the best one (more details on :ref:`jdk_detection`)
 * New menu section, Javatar Settings
