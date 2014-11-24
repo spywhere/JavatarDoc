@@ -5,11 +5,11 @@
 Getting Started
 ===============
 
-Welcome you, the new Javatar! I will take you through a simple project to help using |J| faster and better suit your workspace.
+Welcome you, the new Javatar! I will take you through a simple project to help using |J| faster and better suit your workflow.
 
 This should take some time since I am going to explain everything you might need to know. But in a normal work, you would do all of this in a few minutes.
 
-At the end of this chapter, we will see a simple application that takes our input and respond to us.
+At the end of this chapter, we will see a simple application that takes our input and responds to us.
 
 If you are ready, let's begin!
 
@@ -26,7 +26,7 @@ If you run |J| for the first time, it also download and install necessary packag
 
 .. image:: images/gettingstarted/status_installing.png
 
-Usually, you can use |J| right away when you open |st| since most users did not start create a new class or organize imports at startup time.
+Usually, you can use |J| right away when you open |st| since most users did not create a new class or organize imports at startup time.
 
 Preparing Our New Project
 -------------------------
@@ -40,7 +40,7 @@ First Command
 
 Let's try working with a command. First, we need to create a new package to test some Java code.
 
-We will pressing :kbd:`Key+Shift+K` twice to open |J|'s menu and select *Create... > Package* to open up input box.
+We will pressing :kbd:`Key+Shift+K` twice to open |J|'s menu and select *Create... > Package* to open up an input box.
 
 .. image:: images/gettingstarted/package_empty.png
 
@@ -62,7 +62,7 @@ Source Folder
 -------------
 
 The reason that our package is ending up in a wrong place because we did not set the source folder yet.
-What is source folder? Source Folder is, obviously, a folder which contains source code files.
+What is a source folder? Source folder is, obviously, a folder which contains source code files.
 Since, we want our source code to be placed in ``src`` folder. Hence, the ``src`` folder should be set as source folder as the name stated.
 
 To set a source folder, we will run a command *Set Source Folder*.
@@ -72,7 +72,7 @@ Then we will select ``src`` folder as we want.
 
 .. image:: images/gettingstarted/panel_source_folder.png
 
-.. warning:: If project data restoration feature is disable and you did not save your project, Source Folder and Dependencies settings might be reset when you restarted Sublime Text.
+.. warning:: If project data restoration feature is disabled and you did not save your project, Source Folder and Dependencies settings might be reset when you restarted Sublime Text.
 
 Menu is Everything
 ------------------
@@ -98,13 +98,13 @@ And bam! A class is created inside a proper package path. Isn't that great?
 
 .. image:: images/gettingstarted/sidebar_correct.png
 
-So, Create Package command is useless? Well, not so much. Sometimes you might need to creates a package before create a class to organize packages,
+So, Create Package command is useless? Well, not so much. Sometimes, you might need to creates a package before create a class to organize packages,
 and later you will fill it up with a bunch of classes. And that is the time when Create Package comes in.
 
 Package Path
 ------------
 
-Right now, if you look at your status bar at the bottom of the window, you will notice that there is a package path showing.
+Right now, if you look at a status bar at the bottom of the window, you will notice that there is a package path showing.
 This will change when you switch to another tab that is Java file, indicated which package current file is in.
 
 .. image:: images/gettingstarted/status_package_path.png
