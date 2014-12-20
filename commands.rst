@@ -29,16 +29,16 @@ Create
 Operations
 ----------
 
- * Do class or package operations such as organize imports, rename class or package
+ * Do class or package operations such as organize imports or correct class
  * More details on :ref:`operations`
 
-Project Settings [#qm_only]_
+Project Settings
 ----------------------------
 
  * Adjust settings for current projects
  * More details on :ref:`projects`
 
-Javatar Settings [#qm_only]_
+Javatar Settings
 ----------------------------
 
  * Adjust settings for global projects (all projects)

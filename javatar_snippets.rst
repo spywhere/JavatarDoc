@@ -3,7 +3,7 @@
 .. _javatar_snippets:
 
 |J| Snippets
-================
+============
 
 |J| snippets is a dynamic snippet which will change part of the file to correspond with package path and class name. By using parameters, you can specify which part of the file you want to fill the data to.
 
@@ -27,7 +27,7 @@ Usage of snippet tags in action
 .. image:: images/CreateNewSS.png
 
 Snippet Parameters
---------------
+------------------
 
 The following parameters are used inside |J| snippet files (\*.javatar) which will be parsed by |J| and |st|.
 

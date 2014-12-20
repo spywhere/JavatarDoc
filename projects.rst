@@ -10,9 +10,9 @@ The Project Settings section contains per-project settings.
 .. tip:: All |J|'s settings can be set specifically for each project by setting it in project file instead of user preferences
 
 Set Program Arguments
------------------
+---------------------
 
-By default, |J| will not pass parameters when running an application through the *run* command (see :ref:`getting_started` for an example).
+By default, |J| will not pass parameters when running an application through the *Run Main Class* command (see :ref:`getting_started` for an example).
 *Set Program Arguments* allows you to specify what arguments should be passed on main execution.
 
 Dependencies

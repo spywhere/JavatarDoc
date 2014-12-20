@@ -12,7 +12,7 @@ A |J| Action History Report will looks similar to this when using it properly...
 
 	## Javatar Report
 	### System Informations
-	* Javatar Version: `14.04.15.00.29b`
+	* Javatar Version: `1.0.0`
 	* Sublime Version: `3059`
 	* Package Path: `/Users/USER_NAME/Library/Application Support/Sublime Text 3/Packages`
 	* Javatar Channel: `stable`

@@ -19,7 +19,8 @@ Table of Contents
    :maxdepth: 3
 
    features
-   updates
+   installation
+   changelogs
    screenshots
    getting_started
    commands_list
@@ -29,10 +30,9 @@ Table of Contents
    adv_creates
    operations
    projects
+   settings
    default_packages
    jdk_detection
-   installation
-   settings
    bindings
    build_system
    javatar_shell
