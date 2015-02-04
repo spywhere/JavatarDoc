@@ -8,11 +8,11 @@ Actions History
 Actions History tracks how you use |J| and helps solve the problem. By provides useful informations as request by developer (only when you submit an issue).
 A |J| Action History Report will looks similar to this when using it properly...
 
-.. code-block:: markdown
+.. code-block:: none
 
 	## Javatar Report
 	### System Informations
-	* Javatar Version: `14.04.15.00.29b`
+	* Javatar Version: `1.0.0`
 	* Sublime Version: `3059`
 	* Package Path: `/Users/USER_NAME/Library/Application Support/Sublime Text 3/Packages`
 	* Javatar Channel: `stable`

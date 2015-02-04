@@ -7,6 +7,16 @@ Year Book
 
 A lookback of |J| over years...
 
+## December 2014...
+-------------------
+
+|J| has reach its first release!
+
+Stats: 10.0k installs
+
+Take a look of full feature list here :ref:`changelogs`
+
+
 15 June 2014...
 ---------------
 

@@ -23,3 +23,5 @@ Package Updates Notifications
 
 In order to notice important notes to all users, in stable channel or development channel or both, |J| use custom notification system which will notice you **only once** when |J| is ready to use.
 You can opt out this notification by settings ``message_id`` to ``-1`` in |J|'s user settings file, note that you can see update notes in README file or you will miss further important update notes.
+
+.. note:: From |J| 1.0.0 and later, Package Channels has no effect on features except for *Development Section*. There will be no package channel on newer version of |J|.

@@ -26,11 +26,11 @@ All commands start with :kbd:`Key+Shift+K` then follows by their shortcut key.
     * This will open quick panel, showing you all possible types to create.
 * Create new package : :kbd:`Key+Shift+P`
 	* This will open input panel, just like when you create a new package.
-* Organize Imports : :kbd:`Key+Shift+I` (Only on development channel)
+* Organize Imports : :kbd:`Key+Shift+I`
 	* This will organize imports on current file.
-* Project Settings : :kbd:`Key+Shift+.` (Not available at this moment)
+* Project Settings : :kbd:`Key+Shift+,`
 	* This will open quick panel, showing you all settings you can adjust for current project.
-* Javatar Settings : :kbd:`Key+Shift+,` (Not available at this moment)
+* Javatar Settings : :kbd:`Key+Shift+.`
 	* This will open quick panel, showing you all settings you can adjust for global projects.
 
 .. note:: :kbd:`Key` is :kbd:`Control` on Windows, Linux and :kbd:`Command` on OS X.

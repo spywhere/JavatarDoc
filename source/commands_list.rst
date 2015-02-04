@@ -21,18 +21,19 @@ Here is the list of commands available via |J|'s menu.
     * Class Name
  * Create...
     * Package
-    * Abstract Class
     * Class
     * Enumerator
     * Interface
     * And your own |J|'s snippets
  * Operations...
+    * Organize Imports
     * Correct Class
  * Project Settings...
+    * Set Program Arguments
+    * Set Source Folder
     * Dependencies...
        * Add External .jar
        * Add Class Folder
-    * Set Source Folder
     * Set Default JDK
  * Javatar Settings...
     * Dependencies...
@@ -51,9 +52,6 @@ Here is the list of commands available via |J|'s menu.
        * Generate SHA-256 Hash from URL
        * Convert Imports
  * Development Section... [#dev]_
-    * Operations: Organize Imports
-    * Operations: Rename Class
-    * Operations: Rename Package
     * Parse Document
     * Prettify JSON
     * Testing
