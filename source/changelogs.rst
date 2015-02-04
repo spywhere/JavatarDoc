@@ -5,8 +5,8 @@
 Release Changelog
 =================
 
-First release (December 2014)
------------------------------
+First release (20 December 2014)
+--------------------------------
 
 * Create packages
 * Create classes, enumerators, interfaces

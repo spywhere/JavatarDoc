@@ -23,6 +23,12 @@ See examples below...
 | ~Alpha.Beta | ``Package "Beta" is created in "Alpha"``                           | ``Class "Beta" is created in "Alpha"``                           |
 +-------------+--------------------------------------------------------------------+------------------------------------------------------------------+
 
+Classes with main method
+------------------------
+
+To create a class with main method, just add ``AsMain`` at the end of your class name.
+|J| will automatically add main method when the class is created.
+
 Customized Classes
 ------------------
 
