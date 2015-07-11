@@ -5,9 +5,9 @@
 |J| Shell
 =============
 
-|J| shell is working like normal shell terminal.
-The difference between |J| shell and another shells is |J| shell will send your input by pressing Enter/Return (that give you ability to reedit your content on current line).
+|J| shell works like a normal shell terminal.
+The difference between |J| shell and others shells is that |J| shell will accept your input by pusing the Enter/Return keys. This gives you the ability to read in your content on the current line.
 
-While |J| shell is running, you can close the view to force quit any application that still running in the shell.
+While |J| shell is running, you can close the view to force quit any application that is still running in the shell.
 
-.. warning:: |J| cannot gurranteed that output or input is corrected when you are enter while |J| shell is printing an output from the shell since |J| shell did not set the view to read-only while printing.
+.. warning:: |J| cannot guarantee that output or input will be correct when you type in the |J| shell while it is still printing an output since |J| shell did not set the view to read-only while printing.
