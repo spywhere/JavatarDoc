@@ -7,6 +7,14 @@ Year Book
 
 A lookback of |J| over years...
 
+15 June 2015...
+---------------
+
+Stats: 16.4k installs
+
+2nd year has passed. Although |J| is not changed for a year to you, a new version of |J| is still under development which focus mainly on stability and performance improvements.
+And also no reported issue for a year! That's mean |J| v1.0.0 is working to most of Java developers around the world.
+
 20 December 2014...
 -------------------
 
