@@ -10,4 +10,4 @@ The difference between |J| shell and others shells is that |J| shell will send y
 
 While |J| shell is running, you can close the view to force quit any application that is still running in the shell.
 
-.. warning:: |J| cannot guarantee that output or input is correct when you quit while |J| shell is still printing an output since |J| shell did not set the view to read-only while printing.
+.. warning:: |J| cannot guarantee that output or input will be correct when you type in the |J| shell while it is still printing an output since |J| shell did not set the view to read-only while printing.
